@@ -15,4 +15,4 @@
 - JavaScript
 
 ## Author
-Jayasree Yadav
+Jayasree A
